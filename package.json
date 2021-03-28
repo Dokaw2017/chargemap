@@ -8,19 +8,13 @@
     "express": "^4.17.1",
     "mongoose": "^5.12.2"
   },
-  "devDependencies": {},
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dokaw2017/chargemapp.git"
-  },
+  
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dokaw2017/chargemapp/issues"
-  },
-  "homepage": "https://github.com/Dokaw2017/chargemapp#readme"
+  "license": "ISC"
+ 
 }
